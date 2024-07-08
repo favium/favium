@@ -2,7 +2,7 @@
 
 I've started learning how to code thanks to the Odin Project on 1st June, 2024.
 
-🌱 I’m currently learning ...
+🌱 I’m currently learning JS foundations
 
 ⚡ Fun fact: I have no idea what I'm doing!
 
